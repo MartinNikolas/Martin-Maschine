@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35707.178 d17.12
+VisualStudioVersion = 17.12.35707.178
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Martin-Maschine", "Martin-Maschine\Martin-Maschine.csproj", "{1C2C387B-4092-40AE-BC9D-407A35BB04CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Martin-Maschine-Logik", "Martin-Maschine-Logik\Martin-Maschine-Logik.csproj", "{8858F17F-C102-4F7C-8DCE-42765FB92FAB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{1C2C387B-4092-40AE-BC9D-407A35BB04CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1C2C387B-4092-40AE-BC9D-407A35BB04CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1C2C387B-4092-40AE-BC9D-407A35BB04CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8858F17F-C102-4F7C-8DCE-42765FB92FAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8858F17F-C102-4F7C-8DCE-42765FB92FAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8858F17F-C102-4F7C-8DCE-42765FB92FAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8858F17F-C102-4F7C-8DCE-42765FB92FAB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

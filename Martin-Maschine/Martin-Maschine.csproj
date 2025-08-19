@@ -8,4 +8,16 @@
     <AssemblyName>$(AssemblyName.Replace(' ', '_'))</AssemblyName>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Include="wwwroot\lib\bootstrap\dist\js\page-specific\NavMenu.js" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MudBlazor" Version="8.11.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Martin-Maschine-Logik\Martin-Maschine-Logik.csproj" />
+  </ItemGroup>
+
 </Project>

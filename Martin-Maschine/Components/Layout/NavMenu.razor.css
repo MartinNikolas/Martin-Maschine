@@ -20,6 +20,20 @@
     background-color: rgba(0,0,0,0.4);
 }
 
+
+
+#click_hide_or_show {
+    color: whitesmoke;
+    font-size: 15px;
+    text-align: center;
+}
+#click_hide_or_show:hover {
+        background-color: rgba(255,255,255,0.1);
+    }
+    #click_hide_or_show:hover {
+        background-color: rgba(255,255,255,0.37);
+    }
+
 .navbar-brand {
     font-size: 1.1rem;
 }
